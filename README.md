@@ -1,1 +1,1 @@
-# Evaly Billing service
+# Django Boilerplate
